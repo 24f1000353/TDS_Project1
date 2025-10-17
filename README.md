@@ -466,9 +466,3 @@ curl http://localhost:7860/logs?lines=500
 
 MIT License - Free to use, modify, and distribute. See LICENSE file for details.
 
----
-
----
-
-**Made with ❤️ using AI-powered automation**
-
